@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.789,D:\ProjectsRADStudio\Unit1.h=D:\ProjectsRADStudio\PovaraInRadStudio\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.670,=D:\ProjectsRADStudio\PovaraInRadStudio\PovaraWithNewCont.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.456,=D:\ProjectsRADStudio\PovaraInRadStudio\Patterns.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.222,=D:\ProjectsRADStudio\PovaraInRadStudio\BDBDBD.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.270,=D:\ProjectsRADStudio\PovaraInRadStudio\sqlite3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.870,D:\ProjectsRADStudio\Unit2.h=D:\ProjectsRADStudio\PovaraInRadStudio\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.789,D:\ProjectsRADStudio\Unit1.dfm=D:\ProjectsRADStudio\PovaraInRadStudio\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.215,=D:\ProjectsRADStudio\PovaraInRadStudio\sqlite3.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.487,=D:\ProjectsRADStudio\PovaraInRadStudio\povara.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.927,=D:\ProjectsRADStudio\PovaraInRadStudio\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.145,=D:\ProjectsRADStudio\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.789,D:\ProjectsRADStudio\Unit1.cpp=D:\ProjectsRADStudio\PovaraInRadStudio\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.201,=D:\ProjectsRADStudio\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.581,D:\ProjectsRADStudio\Project1.cbproj=D:\ProjectsRADStudio\PovaraInRadStudio\PovaraInRasStudio.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.552,D:\ProjectsRADStudio\Project1PCH1.h=D:\ProjectsRADStudio\PovaraInRadStudio\PovaraInRasStudioPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.845,D:\ProjectsRADStudio\PovaraInRadStudio\Unit3.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.951,=D:\ProjectsRADStudio\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.870,D:\ProjectsRADStudio\Unit2.cpp=D:\ProjectsRADStudio\PovaraInRadStudio\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.813,D:\ProjectsRADStudio\PovaraInRadStudio\Unit2.cpp=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="BDBDBD.h"/>
+    <File Path="Patterns.h"/>
+    <File Path="povara.h"/>
+    <File Path="PovaraInRasStudio.cpp"/>
+    <File Path="PovaraInRasStudioPCH1.h"/>
+    <File Path="PovaraWithNewCont.cpp"/>
+    <File Path="sqlite3.c"/>
+    <File Path="sqlite3.h"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit1.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
